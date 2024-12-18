@@ -8,5 +8,4 @@ For more details, please see the project's README: ${chalk.bold(
 )}
 `.trim();
 
-console.log(msg);
 console.log(JSON.stringify(msg));
