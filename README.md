@@ -1,4 +1,4 @@
-# Ionic Secure Solutions Starter
+# Ionic Secure Solutions Starters
 
 A showcase app of Ionic App Platform technologies, including [Ionic Framework](https://ionicframework.com), [Capacitor](https://capacitorjs.com), [Appflow](https://ionic.io/appflow), and [Ionic Secure Solutions solutions](https://go.ionic.io/ionic-enterprise-free-trial).
 
